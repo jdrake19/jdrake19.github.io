@@ -2,38 +2,27 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
-  - title: website
+  - title: LinkedIn
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: Sterling Engine
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Designed and modeled a working mini Sterling Engine in SolidWorks based on thermodynamic principles.
     highlight: WIP
 
-  - title: Project 5
+  - title: Model Mani Runs
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Blind + optimized runs for SolidWorks Model Mania
 
-  - title: Project 6
+  - title: Reverse Engineering Handheld Flashlight
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Used a digital caliper to measure and re-create a flashlight in CAD.
+
+  - title: Speed Reducer
+    url: overview-post
+    desc: Built a speed reducer in CAD, learning + practicing multi-part assembly and industry standard drawings.
+    
 
 old_project_entries:
   - title: Soopr
@@ -97,5 +86,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
