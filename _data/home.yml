@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
 
-- title: Wall Mount Bracket FEA Study
+  - title: Wall Mount Bracket FEA Study
     url: overview-post
     desc: Evaluated strucural performance between a one-fin and two-fin wall mount bracket
     
