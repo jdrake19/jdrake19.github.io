@@ -1,5 +1,5 @@
 ---
-title: "Model Mania 2025"
+title: Model Mania 2025
 layout: post
 ---
 
