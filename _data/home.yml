@@ -6,6 +6,11 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
+
+- title: Wall Mount Bracket FEA Study
+    url: fea-study
+    desc: Evaluated strucural performance between a one-fin and two-fin wall mount bracket
+    
   - title: Sterling Engine
     url: overview-post
     desc: Designed and modeled a working mini Sterling Engine in SolidWorks based on thermodynamic principles.
