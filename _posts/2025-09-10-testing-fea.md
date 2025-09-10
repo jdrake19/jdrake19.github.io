@@ -25,10 +25,3 @@ Material: AISI 1020 Cold-Rolled Steel (Yield ~ 350 MPa)
 | One Fin  | Hole-Fixed    |          107.6   |          0.035   |        350  |        ~3.2   |
 | Two Fin  | Surface-Fixed |           11     |          0.002   |        350  |        ~32    |
 | Two Fin  | Hole-Fixed    |          140.7   |          0.035   |        350  |        ~2.5   |
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
