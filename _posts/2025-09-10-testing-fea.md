@@ -19,7 +19,7 @@ Material: AISI 1020 Cold-Rolled Steel (Yield ~ 350 MPa)
 
 ### Results
 | Case       | Mount Type    | Max Stress (MPa)  | Min Stress (MPa) | Yield (MPa) | Safety Factor |
-| :--------- |:-------------:| -----------------:| ---------------: | ----------: | ------------: |
+| ---------- |:-------------:| -----------------:| ---------------: | ----------: | ------------: |
 | One Fin    | Surface-Fixed |           21.5    |          0.008   |        350  |        ~16    |
 | One Fin    | Hole-Fixed    |          107.6    |          0.035   |        350  |        ~3.2   |
 | Two Fin    | Surface-Fixed |           11      |          0.002   |        350  |        ~32    |
